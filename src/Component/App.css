@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.background-red {
+ background-color: #d5e1ec; 
+  background: radial-gradient(#215e9b 0, darken(#dadde0, 15%) 100%);
+  min-height: 100vh;
+  font-family: 'Rubik', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.background-blue {
+  background-color: rgb(155, 22, 182);
+}
